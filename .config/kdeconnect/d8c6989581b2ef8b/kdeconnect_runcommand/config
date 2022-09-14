@@ -1,0 +1,2 @@
+[General]
+commands="@ByteArray({\"_29c109f0_3ff3_4da8_9edf_481656f4c7c3_\":{\"command\":\"poweroff\",\"name\":\"Shutdown\"},\"_942fc2aa_2cf5_4785_af26_abf468d5efe3_\":{\"command\":\"reboot\",\"name\":\"Reboot\"}})"

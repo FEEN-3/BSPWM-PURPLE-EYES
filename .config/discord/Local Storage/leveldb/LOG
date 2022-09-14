@@ -1,0 +1,8 @@
+2022/09/11-18:28:42.983 23f7 Reusing MANIFEST /home/feen/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/09/11-18:28:42.983 23f7 Recovering log #4
+2022/09/11-18:28:42.987 23f7 Level-0 table #7: started
+2022/09/11-18:28:42.995 23f7 Level-0 table #7: 1111199 bytes OK
+2022/09/11-18:28:43.000 23f7 Delete type=0 #4
+2022/09/11-18:30:49.745 23f7 Level-0 table #10: started
+2022/09/11-18:30:49.753 23f7 Level-0 table #10: 1102975 bytes OK
+2022/09/11-18:30:49.757 23f7 Delete type=0 #8

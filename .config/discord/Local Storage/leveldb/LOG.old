@@ -1,0 +1,5 @@
+2022/09/11-11:38:00.176 1fb6 Creating DB /home/feen/.config/discord/Local Storage/leveldb since it was missing.
+2022/09/11-11:38:00.186 1fb6 Reusing MANIFEST /home/feen/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/09/11-11:40:04.779 1fb6 Level-0 table #5: started
+2022/09/11-11:40:04.802 1fb6 Level-0 table #5: 1106407 bytes OK
+2022/09/11-11:40:04.806 1fb6 Delete type=0 #3
