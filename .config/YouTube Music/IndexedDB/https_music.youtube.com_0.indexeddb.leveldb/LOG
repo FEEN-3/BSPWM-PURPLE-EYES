@@ -1,3 +1,12 @@
-2022/09/15-08:47:50.418 c5b Reusing MANIFEST /home/feen/.config/YouTube Music/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/09/15-08:47:50.418 c5b Recovering log #52
-2022/09/15-08:47:50.423 c5b Reusing old log /home/feen/.config/YouTube Music/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/000052.log 
+2022/09/16-14:16:43.875 a36 Reusing MANIFEST /home/feen/.config/YouTube Music/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/16-14:16:43.875 a36 Recovering log #63
+2022/09/16-14:16:43.884 a36 Reusing old log /home/feen/.config/YouTube Music/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/000063.log 
+2022/09/16-14:29:31.316 e58 Level-0 table #68: started
+2022/09/16-14:29:31.331 e58 Level-0 table #68: 899450 bytes OK
+2022/09/16-14:29:31.337 e58 Delete type=0 #63
+2022/09/16-14:30:01.397 e58 Compacting 1@1 + 1@2 files
+2022/09/16-14:30:01.404 e58 Generated table #69@1: 988 keys, 41864 bytes
+2022/09/16-14:30:01.404 e58 Compacted 1@1 + 1@2 files => 41864 bytes
+2022/09/16-14:30:01.408 e58 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/09/16-14:30:01.408 e58 Delete type=2 #65
+2022/09/16-14:30:01.408 e58 Delete type=2 #68
